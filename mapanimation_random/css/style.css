@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+#mapDiv{
+	background:url(../image/map.png);
+	background-repeat:no-repeat;
+	width:741px;
+	height:360px;
+	opacity:0;
+
+	
+}
+
+.circleimg{
+	background:url(../image/square.png);
+	background-repeat:no-repeat;
+	width: 8px;
+	height: 8px;	
+	 float: left;
+	 display:none;
+	
+}
+
+#circ1{margin: -260px 0 0 390px;}
+#circ2{margin: -260px 0 0 89px;}
+#circ3{margin: -65px 0 0 168px;}
+#circ4{	margin: -64px 0 0 403px;}
+#circ5{margin: -64px 0 0 652px;}
+#circ6{margin: -234px 0 0 129px;}
+#circ7{margin: -103px 0 0 364px;}
+#circ8{margin: -248px 0 0 442px;}
+#circ9{margin: -208px 0 0 89px;}
+#circ10{margin: -261px 0 0 116px;}
+
+#circ11{margin:-248px 0 0 600px;}
+#circ12{margin: -248px 0 0 103px;}
+#circ13{margin: -143px 0 0 429px;}
+#circ14{margin: -38px 0 0 692px;}
+#circ15{margin: -182px 0 0 103px;}
+#circ16{margin:-21px 0 0 145px;}
+#circ17{margin:-313px 0 0 547px;}
+#circ18{margin: -221px 0 0 378px;}
+#circ19{margin:-13px 0 0 156px;}
+#circ20{margin:-116px 0 0 181px;}
+
+#circ21{margin: -182px 0 0 377px;}
+#circ22{margin: -234px 0 0 547px;}
+#circ23{margin: -234px 0 0 455px;}
+#circ24{margin: -221px 0 0 90px;}
+#circ25{margin: -287px 0 0 115px;}
+#circ26{margin: -116px 0 0 403px;}
+#circ27{margin: -208px 0 0 560px;}
+#circ28{margin: -195px 0 0 468px;}
+#circ29{margin: -300px 0 0 404px;}
+#circ30{margin: -195px 0 0 403px;}
+
+#circ31{margin: -248px 0 0 468px;}
+#circ32{margin: -274px 0 0 155px;}
+#circ33{margin: -51px 0 0 403px;}
+#circ34{margin: -25px 0 0 168px;}
+#circ35{margin: -130px 0 0 155px;}
+#circ36{margin: -156px 0 0 325px;}
+#circ37{margin:-313px 0 0 181px;}
+#circ38{margin: -313px 0 0 482px;}
+#circ39{margin: -234px 0 0 560px;}
+#circ40{margin: -208px 0 0 365px;}
+
+
+#circ41{
+	margin: -156px 0 0 390px;
+	
+}
+
+/*
+#circ2{
+	margin: -16px 0 0 155px;
+	float: left;
+}
+#circ3{
+    float: left;
+    margin: -26px 0 0 146px;
+}
+#circ4{
+	margin: -27px 0 0 136px;
+}*/
